@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
         Log.d("MYTag","It Works");
         Intent newIntent = new Intent(this, Main2Activity.class);
         startActivity(newIntent);
-     //   Intent int=new Intent()
     }
 }
